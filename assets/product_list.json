@@ -1,0 +1,57 @@
+{
+  "product_items": [
+    {
+      "id": 1,
+      "name": "Puma White (New)",
+      "description": "A true classic is timeless – and the enduring style of the low-cut Basket silhouette is a case in point. First emerging in the 1970s, this design has been reimagined for the 21st century and appears this season in a clean, full-leather look.",
+      "image_url":
+      "https://images.unsplash.com/photo-1608231387042-66d1773070a5?fit=crop&w=300&q=80",
+      "price": 250.00
+    }, {
+      "id": 2,
+      "name": "iPhone 12 Pro Black Edition",
+      "description" : "This is a huge leap for iPhone, bringing the best 5G experience in the market and delivering our most advanced technologies to users who want the absolute most from their iPhone,” said Greg Joswiak, Apple’s senior vice president of Worldwide Marketing. ",
+      "image_url":
+      "https://images.unsplash.com/photo-1573148195900-7845dcb9b127?fit=crop&w=300&q=80",
+      "price": 1200.00
+    },
+    {
+      "id": 3,
+      "name": "Nintendo Switch 2021",
+      "description" : "The Switch is a tablet that can either be docked for home console use or used as a portable device, making it a hybrid console. Its wireless Joy-Con controllers, with standard buttons and directional analog sticks for user input, motion sensing, and tactile feedback, can attach to both sides of the console to support handheld-style play",
+      "image_url":
+      "https://images.unsplash.com/photo-1578303512597-81e6cc155b3e?fit=crop&w=300&q=80",
+      "price": 599.00
+    },
+    {
+      "id": 4,
+      "name": "Black + Decker",
+      "description" : "is an American manufacturer of power tools, accessories, hardware, home improvement products, home appliances and fastening systems headquartered in Towson, Maryland, north of Baltimore, where the company was originally established in 1910. In March 2010, Black & Decker merged with Stanley Works to become Stanley Black & Decker. It remains a wholly owned subsidiary of that company.",
+      "image_url":
+      "https://images.unsplash.com/photo-1574269909862-7e1d70bb8078?fit=crop&w=300&q=80",
+      "price": 149.00
+    },
+    {
+      "id": 5,
+      "name": "White Neat Mug",
+      "description" : "These 11oz (0.33 l) mugs are made with durable white ceramic so that your prints can stand out.",
+      "image_url":
+      "https://images.unsplash.com/photo-1514228742587-6b1558fcca3d?fit=crop&w=300&q=80",
+      "price": 35.00
+    }, {
+      "id": 6,
+      "name": "SMEG Oven - Winter Collection",
+      "description" : "Smeg appliances are renowned for design and attention to detail, ergonomics and functionality, and utilise only the best materials to ensure long life and great performance. Energy efficiency, ease of use, reliability and safety complete the key features and benefits of Smeg appliances, whether it be products catering for your cooking, food storage or washing needs.",
+      "image_url":
+      "https://images.unsplash.com/photo-1586208958839-06c17cacdf08?fit=crop&w=300&q=80",
+      "price": 8299.00
+    },
+    {
+      "id": 7,
+      "name": "Black Table Fan with Pink Moody Cat",
+      "description" : "Relieve heat in the stuffy air With the Hatari cyclone fan, model PS8M1, ready to provide coolness with 8-inch wide blades and 3 levels of fan speed adjustment for you to choose the wind power as needed. Deliver wind power evenly With a high performance motor that provides excellent performance. With a design that you can arrange conveniently. Place the fan on your desk when you need to cool down while working or on your bedside table when you're relaxing. The PS8M1 provides you with the perfect cooling comfort whenever you need it.",
+      "image_url":
+      "https://images.unsplash.com/photo-1618941716939-553df3c6c278?fit=crop&w=300&q=80",
+      "price": 79.00
+    } ]
+}
